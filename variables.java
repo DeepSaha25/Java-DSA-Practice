@@ -38,7 +38,7 @@ public class variables {
         //  System.out.print(total);
 // ---------------------------------------------------------------------
 
-        Scanner s = new Scanner(System.in);
+        // Scanner s = new Scanner(System.in);
         // int $=24;
         // System.out.print($);
 
